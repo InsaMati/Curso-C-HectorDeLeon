@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\MetodosLists\bin\Debug\net6.0\MetodosLists.exe
+C:\Users\matia\source\repos\Variables\MetodosLists\bin\Debug\net6.0\MetodosLists.deps.json
+C:\Users\matia\source\repos\Variables\MetodosLists\bin\Debug\net6.0\MetodosLists.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\MetodosLists\bin\Debug\net6.0\MetodosLists.dll
+C:\Users\matia\source\repos\Variables\MetodosLists\bin\Debug\net6.0\ref\MetodosLists.dll
+C:\Users\matia\source\repos\Variables\MetodosLists\bin\Debug\net6.0\MetodosLists.pdb
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.dll
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\ref\MetodosLists.dll
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.pdb
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\MetodosLists\obj\Debug\net6.0\MetodosLists.csproj.AssemblyReference.cache

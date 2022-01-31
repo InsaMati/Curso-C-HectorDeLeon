@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\Array\bin\Debug\net6.0\Array.exe
+C:\Users\matia\source\repos\Variables\Array\bin\Debug\net6.0\Array.deps.json
+C:\Users\matia\source\repos\Variables\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\Array\bin\Debug\net6.0\Array.dll
+C:\Users\matia\source\repos\Variables\Array\bin\Debug\net6.0\ref\Array.dll
+C:\Users\matia\source\repos\Variables\Array\bin\Debug\net6.0\Array.pdb
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.dll
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\ref\Array.dll
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.pdb
+C:\Users\matia\source\repos\Variables\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache

@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ec14ac4-d07a-4341-8115-9cf977103e8e": {
+      "ProjectGuid": "2ec14ac4-d07a-4341-8115-9cf977103e8e",
+      "DisplayName": "Variables",
+      "ColorIndex": 0
+    },
+    "0665858f-3da8-4d48-8f2a-84f4d11336ae": {
+      "ProjectGuid": "0665858f-3da8-4d48-8f2a-84f4d11336ae",
+      "DisplayName": "Tipos de variables",
+      "ColorIndex": 1
+    },
+    "d4a7397a-5ee3-4c0c-a99b-f7442d7f833c": {
+      "ProjectGuid": "d4a7397a-5ee3-4c0c-a99b-f7442d7f833c",
+      "DisplayName": "Funciones",
+      "ColorIndex": 2
+    },
+    "448a6c9b-dd34-47e6-8e62-626a08a43581": {
+      "ProjectGuid": "448a6c9b-dd34-47e6-8e62-626a08a43581",
+      "DisplayName": "Sentencia-If",
+      "ColorIndex": 3
+    },
+    "bd83921b-968b-41b4-a9ff-a111baeca8e2": {
+      "ProjectGuid": "bd83921b-968b-41b4-a9ff-a111baeca8e2",
+      "DisplayName": "Array",
+      "ColorIndex": 4
+    },
+    "ecebf5de-5733-4ad4-b1e6-c7952846d228": {
+      "ProjectGuid": "ecebf5de-5733-4ad4-b1e6-c7952846d228",
+      "DisplayName": "While",
+      "ColorIndex": 5
+    },
+    "a82512d6-5c16-4312-80ac-f922d11ee9bf": {
+      "ProjectGuid": "a82512d6-5c16-4312-80ac-f922d11ee9bf",
+      "DisplayName": "For",
+      "ColorIndex": 6
+    },
+    "6c08680d-8b87-47a4-9145-0974867029f6": {
+      "ProjectGuid": "6c08680d-8b87-47a4-9145-0974867029f6",
+      "DisplayName": "ClasesYObjetos",
+      "ColorIndex": 7
+    },
+    "d7696301-b44a-44b8-a804-dd0c7c4de54d": {
+      "ProjectGuid": "d7696301-b44a-44b8-a804-dd0c7c4de54d",
+      "DisplayName": "Propiedades",
+      "ColorIndex": 8
+    },
+    "fdad2e16-afaf-4217-8dee-a887f5ce2b3e": {
+      "ProjectGuid": "fdad2e16-afaf-4217-8dee-a887f5ce2b3e",
+      "DisplayName": "Herencia",
+      "ColorIndex": 9
+    },
+    "35b85a89-7375-40a0-b4c2-6dab090783f1": {
+      "ProjectGuid": "35b85a89-7375-40a0-b4c2-6dab090783f1",
+      "DisplayName": "Sobrecarga",
+      "ColorIndex": 10
+    },
+    "8cb6125e-2fdf-4645-bc0a-755ada37452b": {
+      "ProjectGuid": "8cb6125e-2fdf-4645-bc0a-755ada37452b",
+      "DisplayName": "Sobreescritura",
+      "ColorIndex": 11
+    },
+    "5820c700-c231-48a7-87bc-712f529f42d2": {
+      "ProjectGuid": "5820c700-c231-48a7-87bc-712f529f42d2",
+      "DisplayName": "Static",
+      "ColorIndex": 12
+    },
+    "30a76ffe-af48-4199-93ac-7a85f437152e": {
+      "ProjectGuid": "30a76ffe-af48-4199-93ac-7a85f437152e",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 13
+    },
+    "c810b0a4-57ab-4d78-91e0-d0bd2a248e99": {
+      "ProjectGuid": "c810b0a4-57ab-4d78-91e0-d0bd2a248e99",
+      "DisplayName": "Generics",
+      "ColorIndex": 14
+    },
+    "4846a5d1-b5de-4ba2-842c-50f99d8efd35": {
+      "ProjectGuid": "4846a5d1-b5de-4ba2-842c-50f99d8efd35",
+      "DisplayName": "JSON",
+      "ColorIndex": 15
+    },
+    "408fe291-b5ab-43c5-b885-769bb391628f": {
+      "ProjectGuid": "408fe291-b5ab-43c5-b885-769bb391628f",
+      "DisplayName": "SerializacionJSON",
+      "ColorIndex": 0
+    },
+    "777394ef-a05d-453b-986c-6b94663eac89": {
+      "ProjectGuid": "777394ef-a05d-453b-986c-6b94663eac89",
+      "DisplayName": "MetodosLists",
+      "ColorIndex": 1
+    },
+    "91627844-c13b-4e59-9345-3cbc27e88f1f": {
+      "ProjectGuid": "91627844-c13b-4e59-9345-3cbc27e88f1f",
+      "DisplayName": "TiposAnonimos",
+      "ColorIndex": 2
+    },
+    "7fcea9f9-1c6b-4ba3-880a-8235f3d51b61": {
+      "ProjectGuid": "7fcea9f9-1c6b-4ba3-880a-8235f3d51b61",
+      "DisplayName": "Tuplas",
+      "ColorIndex": 3
+    },
+    "8daf04e7-d575-4628-8fca-6ebe3803ea85": {
+      "ProjectGuid": "8daf04e7-d575-4628-8fca-6ebe3803ea85",
+      "DisplayName": "Excepciones",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\Sobreescritura\bin\Debug\net6.0\Sobreescritura.exe
+C:\Users\matia\source\repos\Variables\Sobreescritura\bin\Debug\net6.0\Sobreescritura.deps.json
+C:\Users\matia\source\repos\Variables\Sobreescritura\bin\Debug\net6.0\Sobreescritura.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\Sobreescritura\bin\Debug\net6.0\Sobreescritura.dll
+C:\Users\matia\source\repos\Variables\Sobreescritura\bin\Debug\net6.0\ref\Sobreescritura.dll
+C:\Users\matia\source\repos\Variables\Sobreescritura\bin\Debug\net6.0\Sobreescritura.pdb
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.dll
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\ref\Sobreescritura.dll
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.pdb
+C:\Users\matia\source\repos\Variables\Sobreescritura\obj\Debug\net6.0\Sobreescritura.genruntimeconfig.cache

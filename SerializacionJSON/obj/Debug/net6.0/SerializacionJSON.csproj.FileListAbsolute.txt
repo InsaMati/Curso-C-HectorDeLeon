@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\SerializacionJSON\bin\Debug\net6.0\SerializacionJSON.exe
+C:\Users\matia\source\repos\Variables\SerializacionJSON\bin\Debug\net6.0\SerializacionJSON.deps.json
+C:\Users\matia\source\repos\Variables\SerializacionJSON\bin\Debug\net6.0\SerializacionJSON.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\SerializacionJSON\bin\Debug\net6.0\SerializacionJSON.dll
+C:\Users\matia\source\repos\Variables\SerializacionJSON\bin\Debug\net6.0\ref\SerializacionJSON.dll
+C:\Users\matia\source\repos\Variables\SerializacionJSON\bin\Debug\net6.0\SerializacionJSON.pdb
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.dll
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\ref\SerializacionJSON.dll
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.pdb
+C:\Users\matia\source\repos\Variables\SerializacionJSON\obj\Debug\net6.0\SerializacionJSON.genruntimeconfig.cache

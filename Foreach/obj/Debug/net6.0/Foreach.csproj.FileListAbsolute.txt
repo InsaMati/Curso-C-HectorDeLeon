@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\Foreach\bin\Debug\net6.0\Foreach.exe
+C:\Users\matia\source\repos\Variables\Foreach\bin\Debug\net6.0\Foreach.deps.json
+C:\Users\matia\source\repos\Variables\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\Foreach\bin\Debug\net6.0\Foreach.dll
+C:\Users\matia\source\repos\Variables\Foreach\bin\Debug\net6.0\ref\Foreach.dll
+C:\Users\matia\source\repos\Variables\Foreach\bin\Debug\net6.0\Foreach.pdb
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.dll
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\ref\Foreach.dll
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.pdb
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\bin\Debug\net6.0\ExcepcionPropia.exe
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\bin\Debug\net6.0\ExcepcionPropia.deps.json
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\bin\Debug\net6.0\ExcepcionPropia.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\bin\Debug\net6.0\ExcepcionPropia.dll
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\bin\Debug\net6.0\ref\ExcepcionPropia.dll
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\bin\Debug\net6.0\ExcepcionPropia.pdb
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.dll
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ref\ExcepcionPropia.dll
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.pdb
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.genruntimeconfig.cache

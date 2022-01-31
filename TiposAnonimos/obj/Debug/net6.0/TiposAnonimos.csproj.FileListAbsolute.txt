@@ -1,0 +1,14 @@
+C:\Users\matia\source\repos\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.exe
+C:\Users\matia\source\repos\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.deps.json
+C:\Users\matia\source\repos\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.dll
+C:\Users\matia\source\repos\Variables\TiposAnonimos\bin\Debug\net6.0\ref\TiposAnonimos.dll
+C:\Users\matia\source\repos\Variables\TiposAnonimos\bin\Debug\net6.0\TiposAnonimos.pdb
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.dll
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\ref\TiposAnonimos.dll
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.pdb
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.genruntimeconfig.cache

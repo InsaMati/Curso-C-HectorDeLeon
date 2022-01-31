@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\Tipos de variables\bin\Debug\net6.0\Tipos de variables.exe
+C:\Users\matia\source\repos\Variables\Tipos de variables\bin\Debug\net6.0\Tipos de variables.deps.json
+C:\Users\matia\source\repos\Variables\Tipos de variables\bin\Debug\net6.0\Tipos de variables.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\Tipos de variables\bin\Debug\net6.0\Tipos de variables.dll
+C:\Users\matia\source\repos\Variables\Tipos de variables\bin\Debug\net6.0\ref\Tipos de variables.dll
+C:\Users\matia\source\repos\Variables\Tipos de variables\bin\Debug\net6.0\Tipos de variables.pdb
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.dll
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\ref\Tipos de variables.dll
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.pdb
+C:\Users\matia\source\repos\Variables\Tipos de variables\obj\Debug\net6.0\Tipos de variables.genruntimeconfig.cache
