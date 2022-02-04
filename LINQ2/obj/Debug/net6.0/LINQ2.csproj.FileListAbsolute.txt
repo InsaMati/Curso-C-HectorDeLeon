@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\LINQ2\bin\Debug\net6.0\LINQ2.exe
+C:\Users\matia\source\repos\Variables\LINQ2\bin\Debug\net6.0\LINQ2.deps.json
+C:\Users\matia\source\repos\Variables\LINQ2\bin\Debug\net6.0\LINQ2.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\LINQ2\bin\Debug\net6.0\LINQ2.dll
+C:\Users\matia\source\repos\Variables\LINQ2\bin\Debug\net6.0\ref\LINQ2.dll
+C:\Users\matia\source\repos\Variables\LINQ2\bin\Debug\net6.0\LINQ2.pdb
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.dll
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\ref\LINQ2.dll
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.pdb
+C:\Users\matia\source\repos\Variables\LINQ2\obj\Debug\net6.0\LINQ2.genruntimeconfig.cache

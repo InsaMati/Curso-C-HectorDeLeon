@@ -105,7 +105,22 @@
       "ProjectGuid": "8daf04e7-d575-4628-8fca-6ebe3803ea85",
       "DisplayName": "Excepciones",
       "ColorIndex": 4
+    },
+    "f881b599-5ae2-4a3d-85e6-77cfbf3e2d3a": {
+      "ProjectGuid": "f881b599-5ae2-4a3d-85e6-77cfbf3e2d3a",
+      "DisplayName": "LINQ2",
+      "ColorIndex": 5
+    },
+    "abc14552-0a25-40d2-ac52-21b8ff34f26b": {
+      "ProjectGuid": "abc14552-0a25-40d2-ac52-21b8ff34f26b",
+      "DisplayName": "LINQ1",
+      "ColorIndex": 6
+    },
+    "6eab5dbc-6b77-419d-bdc5-8793a2e1b870": {
+      "ProjectGuid": "6eab5dbc-6b77-419d-bdc5-8793a2e1b870",
+      "DisplayName": "BaseDeDatos",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
