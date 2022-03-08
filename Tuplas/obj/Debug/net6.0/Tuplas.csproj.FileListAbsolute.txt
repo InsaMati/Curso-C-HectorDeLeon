@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\Tuplas\obj\Debug\net6.0\Tuplas.dll
 C:\Users\matia\source\repos\Variables\Tuplas\obj\Debug\net6.0\ref\Tuplas.dll
 C:\Users\matia\source\repos\Variables\Tuplas\obj\Debug\net6.0\Tuplas.pdb
 C:\Users\matia\source\repos\Variables\Tuplas\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\Tuplas\obj\Debug\net6.0\Tuplas.csproj.AssemblyReference.cache

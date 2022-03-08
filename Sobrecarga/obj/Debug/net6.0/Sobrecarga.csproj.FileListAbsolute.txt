@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\Sobrecarga\obj\Debug\net6.0\Sobrecarga.dll
 C:\Users\matia\source\repos\Variables\Sobrecarga\obj\Debug\net6.0\ref\Sobrecarga.dll
 C:\Users\matia\source\repos\Variables\Sobrecarga\obj\Debug\net6.0\Sobrecarga.pdb
 C:\Users\matia\source\repos\Variables\Sobrecarga\obj\Debug\net6.0\Sobrecarga.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\Sobrecarga\obj\Debug\net6.0\Sobrecarga.csproj.AssemblyReference.cache

@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\Interfaces\obj\Debug\net6.0\Interfaces.dll
 C:\Users\matia\source\repos\Variables\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
 C:\Users\matia\source\repos\Variables\Interfaces\obj\Debug\net6.0\Interfaces.pdb
 C:\Users\matia\source\repos\Variables\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache

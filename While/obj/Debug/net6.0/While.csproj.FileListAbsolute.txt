@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\While\obj\Debug\net6.0\While.dll
 C:\Users\matia\source\repos\Variables\While\obj\Debug\net6.0\ref\While.dll
 C:\Users\matia\source\repos\Variables\While\obj\Debug\net6.0\While.pdb
 C:\Users\matia\source\repos\Variables\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache

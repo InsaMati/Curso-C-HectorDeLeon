@@ -1,0 +1,14 @@
+C:\Users\matia\source\repos\Variables\BD\bin\Debug\net6.0\BD.deps.json
+C:\Users\matia\source\repos\Variables\BD\bin\Debug\net6.0\BD.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\BD\bin\Debug\net6.0\BD.dll
+C:\Users\matia\source\repos\Variables\BD\bin\Debug\net6.0\ref\BD.dll
+C:\Users\matia\source\repos\Variables\BD\bin\Debug\net6.0\BD.pdb
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.dll
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\ref\BD.dll
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.pdb
+C:\Users\matia\source\repos\Variables\BD\obj\Debug\net6.0\BD.genruntimeconfig.cache

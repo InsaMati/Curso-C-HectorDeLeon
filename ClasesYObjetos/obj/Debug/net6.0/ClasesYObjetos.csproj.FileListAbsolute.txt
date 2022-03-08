@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\ClasesYObjetos\obj\Debug\net6.0\ClasesYObj
 C:\Users\matia\source\repos\Variables\ClasesYObjetos\obj\Debug\net6.0\ref\ClasesYObjetos.dll
 C:\Users\matia\source\repos\Variables\ClasesYObjetos\obj\Debug\net6.0\ClasesYObjetos.pdb
 C:\Users\matia\source\repos\Variables\ClasesYObjetos\obj\Debug\net6.0\ClasesYObjetos.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\ClasesYObjetos\obj\Debug\net6.0\ClasesYObjetos.csproj.AssemblyReference.cache

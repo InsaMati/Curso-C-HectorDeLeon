@@ -120,7 +120,22 @@
       "ProjectGuid": "6eab5dbc-6b77-419d-bdc5-8793a2e1b870",
       "DisplayName": "BaseDeDatos",
       "ColorIndex": 7
+    },
+    "a815a6d2-7129-4dd6-8f45-9e3ddc461b0e": {
+      "ProjectGuid": "a815a6d2-7129-4dd6-8f45-9e3ddc461b0e",
+      "DisplayName": "BD",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "1dff2e38-663d-4e7b-89ea-6978e5686ad2": {
+      "ProjectGuid": "1dff2e38-663d-4e7b-89ea-6978e5686ad2",
+      "DisplayName": "EntityFramework",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }

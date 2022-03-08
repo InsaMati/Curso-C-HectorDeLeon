@@ -121,8 +121,19 @@ static void Delete(BeerDB beerDB)
     Console.WriteLine("Eliminar cerveza");
 
     Console.WriteLine("Id de cerveza a eliminar: ");
-    int id = Convert.ToInt32(Console.ReadLine());
+    int idelm = Convert.ToInt32(Console.ReadLine());
 
-    beerDB.Delete(id);
+    Beer beer = beerDB.get(idelm);
+
+    if(beer != null)
+    {
+        beerDB.Delete(idelm);
+    }
+    else
+    {
+        Console.WriteLine("La cerveza no existe.");
+    }
+
+
 
 }

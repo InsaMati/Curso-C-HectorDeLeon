@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonim
 C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\ref\TiposAnonimos.dll
 C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.pdb
 C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\TiposAnonimos\obj\Debug\net6.0\TiposAnonimos.csproj.AssemblyReference.cache

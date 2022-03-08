@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\Lists\obj\Debug\net6.0\Lists.dll
 C:\Users\matia\source\repos\Variables\Lists\obj\Debug\net6.0\ref\Lists.dll
 C:\Users\matia\source\repos\Variables\Lists\obj\Debug\net6.0\Lists.pdb
 C:\Users\matia\source\repos\Variables\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache

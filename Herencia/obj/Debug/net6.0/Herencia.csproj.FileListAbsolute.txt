@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\Herencia\obj\Debug\net6.0\Herencia.dll
 C:\Users\matia\source\repos\Variables\Herencia\obj\Debug\net6.0\ref\Herencia.dll
 C:\Users\matia\source\repos\Variables\Herencia\obj\Debug\net6.0\Herencia.pdb
 C:\Users\matia\source\repos\Variables\Herencia\obj\Debug\net6.0\Herencia.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\Herencia\obj\Debug\net6.0\Herencia.csproj.AssemblyReference.cache

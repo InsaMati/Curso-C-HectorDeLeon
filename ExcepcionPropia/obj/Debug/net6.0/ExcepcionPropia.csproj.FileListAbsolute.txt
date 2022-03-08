@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\Excepcion
 C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ref\ExcepcionPropia.dll
 C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.pdb
 C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\ExcepcionPropia\obj\Debug\net6.0\ExcepcionPropia.csproj.AssemblyReference.cache

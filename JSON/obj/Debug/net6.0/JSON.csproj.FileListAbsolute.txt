@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\JSON\bin\Debug\net6.0\JSON.exe
+C:\Users\matia\source\repos\Variables\JSON\bin\Debug\net6.0\JSON.deps.json
+C:\Users\matia\source\repos\Variables\JSON\bin\Debug\net6.0\JSON.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\JSON\bin\Debug\net6.0\JSON.dll
+C:\Users\matia\source\repos\Variables\JSON\bin\Debug\net6.0\ref\JSON.dll
+C:\Users\matia\source\repos\Variables\JSON\bin\Debug\net6.0\JSON.pdb
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.dll
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\ref\JSON.dll
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.pdb
+C:\Users\matia\source\repos\Variables\JSON\obj\Debug\net6.0\JSON.genruntimeconfig.cache

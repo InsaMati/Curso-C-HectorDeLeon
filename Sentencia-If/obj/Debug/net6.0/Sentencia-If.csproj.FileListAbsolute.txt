@@ -1,0 +1,15 @@
+C:\Users\matia\source\repos\Variables\Sentencia-If\bin\Debug\net6.0\Sentencia-If.exe
+C:\Users\matia\source\repos\Variables\Sentencia-If\bin\Debug\net6.0\Sentencia-If.deps.json
+C:\Users\matia\source\repos\Variables\Sentencia-If\bin\Debug\net6.0\Sentencia-If.runtimeconfig.json
+C:\Users\matia\source\repos\Variables\Sentencia-If\bin\Debug\net6.0\Sentencia-If.dll
+C:\Users\matia\source\repos\Variables\Sentencia-If\bin\Debug\net6.0\ref\Sentencia-If.dll
+C:\Users\matia\source\repos\Variables\Sentencia-If\bin\Debug\net6.0\Sentencia-If.pdb
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.AssemblyInfo.cs
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.dll
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\ref\Sentencia-If.dll
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.pdb
+C:\Users\matia\source\repos\Variables\Sentencia-If\obj\Debug\net6.0\Sentencia-If.genruntimeconfig.cache

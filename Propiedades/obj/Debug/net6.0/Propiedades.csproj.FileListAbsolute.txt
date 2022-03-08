@@ -12,3 +12,4 @@ C:\Users\matia\source\repos\Variables\Propiedades\obj\Debug\net6.0\Propiedades.d
 C:\Users\matia\source\repos\Variables\Propiedades\obj\Debug\net6.0\ref\Propiedades.dll
 C:\Users\matia\source\repos\Variables\Propiedades\obj\Debug\net6.0\Propiedades.pdb
 C:\Users\matia\source\repos\Variables\Propiedades\obj\Debug\net6.0\Propiedades.genruntimeconfig.cache
+C:\Users\matia\source\repos\Variables\Propiedades\obj\Debug\net6.0\Propiedades.csproj.AssemblyReference.cache
